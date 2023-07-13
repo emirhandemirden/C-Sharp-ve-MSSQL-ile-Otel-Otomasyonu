@@ -1,0 +1,841 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4DE37CF4-4663-48C4-9AB3-C0792B8C8A91}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OtelOtomasyonu</RootNamespace>
+    <AssemblyName>OtelOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.Desktop.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v20.1.Core, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1576.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ayarlar\Form_Ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayarlar\Form_Ayarlar.Designer.cs">
+      <DependentUpon>Form_Ayarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CariGecmisleriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CariGecmisleriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CarilerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CarilerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cariler\Form_CariEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cariler\Form_CariEkle.Designer.cs">
+      <DependentUpon>Form_CariEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cariler\Form_CariGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cariler\Form_CariGuncelle.Designer.cs">
+      <DependentUpon>Form_CariGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cariler\Form_Cariler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cariler\Form_Cariler.Designer.cs">
+      <DependentUpon>Form_Cariler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cariler\Form_CarilerListesiRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cariler\Form_CarilerListesiRaporu.Designer.cs">
+      <DependentUpon>Form_CarilerListesiRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cariler\Form_CariSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cariler\Form_CariSil.Designer.cs">
+      <DependentUpon>Form_CariSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cariler\Form_TuruneGoreCarilerListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cariler\Form_TuruneGoreCarilerListesi.Designer.cs">
+      <DependentUpon>Form_TuruneGoreCarilerListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CariTurleriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CariTurleriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Gecmisler\Form_CariIslemGecmisleriListesiRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gecmisler\Form_CariIslemGecmisleriListesiRaporu.Designer.cs">
+      <DependentUpon>Form_CariIslemGecmisleriListesiRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gecmisler\Form_Gecmisler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gecmisler\Form_Gecmisler.Designer.cs">
+      <DependentUpon>Form_Gecmisler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gecmisler\Form_MuhasebeIslemleriListesiRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gecmisler\Form_MuhasebeIslemleriListesiRaporu.Designer.cs">
+      <DependentUpon>Form_MuhasebeIslemleriListesiRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gecmisler\Form_OdaKayitGecmisleriListesiRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gecmisler\Form_OdaKayitGecmisleriListesiRaporu.Designer.cs">
+      <DependentUpon>Form_OdaKayitGecmisleriListesiRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gecmisler\Form_PersonelIslemGecmisleriListesiRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gecmisler\Form_PersonelIslemGecmisleriListesiRaporu.Designer.cs">
+      <DependentUpon>Form_PersonelIslemGecmisleriListesiRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GirisEkranı\Form_GirisYap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisEkranı\Form_GirisYap.Designer.cs">
+      <DependentUpon>Form_GirisYap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GorevlilerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GorevlilerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GunlukMuhasebeDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GunlukMuhasebeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Kafeterya\Form_Kafeterya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kafeterya\Form_Kafeterya.Designer.cs">
+      <DependentUpon>Form_Kafeterya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kafeterya\Form_KategoriyeGoreUrunlerListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kafeterya\Form_KategoriyeGoreUrunlerListesi.Designer.cs">
+      <DependentUpon>Form_KategoriyeGoreUrunlerListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kafeterya\Form_OdaSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kafeterya\Form_OdaSatis.Designer.cs">
+      <DependentUpon>Form_OdaSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kafeterya\Form_UrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kafeterya\Form_UrunEkle.Designer.cs">
+      <DependentUpon>Form_UrunEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kafeterya\Form_UrunGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kafeterya\Form_UrunGuncelle.Designer.cs">
+      <DependentUpon>Form_UrunGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kafeterya\Form_UrunlerListesiRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kafeterya\Form_UrunlerListesiRaporu.Designer.cs">
+      <DependentUpon>Form_UrunlerListesiRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kafeterya\Form_UrunSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kafeterya\Form_UrunSil.Designer.cs">
+      <DependentUpon>Form_UrunSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MuhasebeGecmisleriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MuhasebeGecmisleriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MuhasebeIslemleriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MuhasebeIslemleriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MuhasebeTurleriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MuhasebeTurleriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Muhasebe\Form_GenelMuhasebeRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muhasebe\Form_GenelMuhasebeRaporu.Designer.cs">
+      <DependentUpon>Form_GenelMuhasebeRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muhasebe\Form_GunlukMuhasebeRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muhasebe\Form_GunlukMuhasebeRaporu.Designer.cs">
+      <DependentUpon>Form_GunlukMuhasebeRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muhasebe\Form_Muhasebe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muhasebe\Form_Muhasebe.Designer.cs">
+      <DependentUpon>Form_Muhasebe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muhasebe\Form_MuhasebeEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muhasebe\Form_MuhasebeEkle.Designer.cs">
+      <DependentUpon>Form_MuhasebeEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muhasebe\Form_MuhasebeGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muhasebe\Form_MuhasebeGuncelle.Designer.cs">
+      <DependentUpon>Form_MuhasebeGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muhasebe\Form_MuhasebeSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muhasebe\Form_MuhasebeSil.Designer.cs">
+      <DependentUpon>Form_MuhasebeSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusterilerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MusterilerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OdaEsyalariDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OdaEsyalariDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OdaIslemGecmisleriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OdaIslemGecmisleriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OdaKayitlariDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OdaKayitlariDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OdalarDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OdalarDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaEkle.Designer.cs">
+      <DependentUpon>Form_OdaEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaEkrani.Designer.cs">
+      <DependentUpon>Form_OdaEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaGuncelle.Designer.cs">
+      <DependentUpon>Form_OdaGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Otel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Otel.Designer.cs">
+      <DependentUpon>Form_Otel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaIDeGoreKayitListesiRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaIDeGoreKayitListesiRaporu.Designer.cs">
+      <DependentUpon>Form_OdaIDeGoreKayitListesiRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaKayitlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaKayitlari.Designer.cs">
+      <DependentUpon>Form_OdaKayitlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaKayıt.Designer.cs">
+      <DependentUpon>Form_OdaKayıt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaKayitSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaKayitSil.Designer.cs">
+      <DependentUpon>Form_OdaKayitSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_Odalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_Odalar.Designer.cs">
+      <DependentUpon>Form_Odalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdalaraGoreKayitListesiRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdalaraGoreKayitListesiRaporu.Designer.cs">
+      <DependentUpon>Form_OdalaraGoreKayitListesiRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdalarRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdalarRapor.Designer.cs">
+      <DependentUpon>Form_OdalarRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_OdaSil.Designer.cs">
+      <DependentUpon>Form_OdaSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odalar\Form_TuruneGoreOdalarRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odalar\Form_TuruneGoreOdalarRapor.Designer.cs">
+      <DependentUpon>Form_TuruneGoreOdalarRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdaTurleriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OdaTurleriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OtelDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OtelDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelIslemGecmisleriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PersonelIslemGecmisleriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Sınıflar\Form_islemleri.cs" />
+    <Compile Include="Sınıflar\Veritabani_islemleri.cs" />
+    <Compile Include="Tanimlamalar\Form_TanimlamaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tanimlamalar\Form_TanimlamaEkle.Designer.cs">
+      <DependentUpon>Form_TanimlamaEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tanimlamalar\Form_TanimlamaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tanimlamalar\Form_TanimlamaGuncelle.Designer.cs">
+      <DependentUpon>Form_TanimlamaGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tanimlamalar\Form_Tanimlamalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tanimlamalar\Form_Tanimlamalar.Designer.cs">
+      <DependentUpon>Form_Tanimlamalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tanimlamalar\Form_TanimlamaSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tanimlamalar\Form_TanimlamaSil.Designer.cs">
+      <DependentUpon>Form_TanimlamaSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunKategorileriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UrunKategorileriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UrunlerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UrunlerDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ayarlar\Form_Ayarlar.resx">
+      <DependentUpon>Form_Ayarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cariler\Form_CariEkle.resx">
+      <DependentUpon>Form_CariEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cariler\Form_CariGuncelle.resx">
+      <DependentUpon>Form_CariGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cariler\Form_Cariler.resx">
+      <DependentUpon>Form_Cariler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cariler\Form_CarilerListesiRaporu.resx">
+      <DependentUpon>Form_CarilerListesiRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cariler\Form_CariSil.resx">
+      <DependentUpon>Form_CariSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cariler\Form_TuruneGoreCarilerListesi.resx">
+      <DependentUpon>Form_TuruneGoreCarilerListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gecmisler\Form_CariIslemGecmisleriListesiRaporu.resx">
+      <DependentUpon>Form_CariIslemGecmisleriListesiRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gecmisler\Form_Gecmisler.resx">
+      <DependentUpon>Form_Gecmisler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gecmisler\Form_MuhasebeIslemleriListesiRaporu.resx">
+      <DependentUpon>Form_MuhasebeIslemleriListesiRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gecmisler\Form_OdaKayitGecmisleriListesiRaporu.resx">
+      <DependentUpon>Form_OdaKayitGecmisleriListesiRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gecmisler\Form_PersonelIslemGecmisleriListesiRaporu.resx">
+      <DependentUpon>Form_PersonelIslemGecmisleriListesiRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisEkranı\Form_GirisYap.resx">
+      <DependentUpon>Form_GirisYap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kafeterya\Form_Kafeterya.resx">
+      <DependentUpon>Form_Kafeterya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kafeterya\Form_KategoriyeGoreUrunlerListesi.resx">
+      <DependentUpon>Form_KategoriyeGoreUrunlerListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kafeterya\Form_OdaSatis.resx">
+      <DependentUpon>Form_OdaSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kafeterya\Form_UrunEkle.resx">
+      <DependentUpon>Form_UrunEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kafeterya\Form_UrunGuncelle.resx">
+      <DependentUpon>Form_UrunGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kafeterya\Form_UrunlerListesiRaporu.resx">
+      <DependentUpon>Form_UrunlerListesiRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kafeterya\Form_UrunSil.resx">
+      <DependentUpon>Form_UrunSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muhasebe\Form_GenelMuhasebeRaporu.resx">
+      <DependentUpon>Form_GenelMuhasebeRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muhasebe\Form_GunlukMuhasebeRaporu.resx">
+      <DependentUpon>Form_GunlukMuhasebeRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muhasebe\Form_Muhasebe.resx">
+      <DependentUpon>Form_Muhasebe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muhasebe\Form_MuhasebeEkle.resx">
+      <DependentUpon>Form_MuhasebeEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muhasebe\Form_MuhasebeGuncelle.resx">
+      <DependentUpon>Form_MuhasebeGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muhasebe\Form_MuhasebeSil.resx">
+      <DependentUpon>Form_MuhasebeSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdaEkle.resx">
+      <DependentUpon>Form_OdaEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdaEkrani.resx">
+      <DependentUpon>Form_OdaEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdaGuncelle.resx">
+      <DependentUpon>Form_OdaGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Otel.resx">
+      <DependentUpon>Form_Otel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdaIDeGoreKayitListesiRaporu.resx">
+      <DependentUpon>Form_OdaIDeGoreKayitListesiRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdaKayitlari.resx">
+      <DependentUpon>Form_OdaKayitlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdaKayıt.resx">
+      <DependentUpon>Form_OdaKayıt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdaKayitSil.resx">
+      <DependentUpon>Form_OdaKayitSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_Odalar.resx">
+      <DependentUpon>Form_Odalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdalaraGoreKayitListesiRaporu.resx">
+      <DependentUpon>Form_OdalaraGoreKayitListesiRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdalarRapor.resx">
+      <DependentUpon>Form_OdalarRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_OdaSil.resx">
+      <DependentUpon>Form_OdaSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odalar\Form_TuruneGoreOdalarRapor.resx">
+      <DependentUpon>Form_TuruneGoreOdalarRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Raporlar\Report_CariIslemGecmisleriListesiRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_CarilerListesiRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_GenelMuhasebeRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_GunlukMuhasebeRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_KategoriyeGoreUrunlerListesiRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_MuhasebeIslemleriListesiRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_OdaIDeGoreKayitListesiRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_OdaKayitGecmisleriListesiRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_OdalaraGoreKayitListesiRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_PersonelIslemGecmisleriListesiRaporu.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_TuruneGoreCarilerListesi.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_TuruneGoreOdalarListesi.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_OdaListesi.rdlc" />
+    <EmbeddedResource Include="Raporlar\Report_UrunlerListesiRaporu.rdlc" />
+    <EmbeddedResource Include="Tanimlamalar\Form_TanimlamaEkle.resx">
+      <DependentUpon>Form_TanimlamaEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tanimlamalar\Form_TanimlamaGuncelle.resx">
+      <DependentUpon>Form_TanimlamaGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tanimlamalar\Form_Tanimlamalar.resx">
+      <DependentUpon>Form_Tanimlamalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tanimlamalar\Form_TanimlamaSil.resx">
+      <DependentUpon>Form_TanimlamaSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="CariGecmisleriDataSet.xsc">
+      <DependentUpon>CariGecmisleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CariGecmisleriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CariGecmisleriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CariGecmisleriDataSet.xss">
+      <DependentUpon>CariGecmisleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CarilerDataSet.xsc">
+      <DependentUpon>CarilerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CarilerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CarilerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CarilerDataSet.xss">
+      <DependentUpon>CarilerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CariTurleriDataSet.xsc">
+      <DependentUpon>CariTurleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CariTurleriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CariTurleriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CariTurleriDataSet.xss">
+      <DependentUpon>CariTurleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GorevlilerDataSet.xsc">
+      <DependentUpon>GorevlilerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GorevlilerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GorevlilerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GorevlilerDataSet.xss">
+      <DependentUpon>GorevlilerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GunlukMuhasebeDataSet.xsc">
+      <DependentUpon>GunlukMuhasebeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GunlukMuhasebeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GunlukMuhasebeDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GunlukMuhasebeDataSet.xss">
+      <DependentUpon>GunlukMuhasebeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MuhasebeGecmisleriDataSet.xsc">
+      <DependentUpon>MuhasebeGecmisleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MuhasebeGecmisleriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MuhasebeGecmisleriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MuhasebeGecmisleriDataSet.xss">
+      <DependentUpon>MuhasebeGecmisleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MuhasebeIslemleriDataSet.xsc">
+      <DependentUpon>MuhasebeIslemleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MuhasebeIslemleriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MuhasebeIslemleriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MuhasebeIslemleriDataSet.xss">
+      <DependentUpon>MuhasebeIslemleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MuhasebeTurleriDataSet.xsc">
+      <DependentUpon>MuhasebeTurleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MuhasebeTurleriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MuhasebeTurleriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MuhasebeTurleriDataSet.xss">
+      <DependentUpon>MuhasebeTurleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MusterilerDataSet.xsc">
+      <DependentUpon>MusterilerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MusterilerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MusterilerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MusterilerDataSet.xss">
+      <DependentUpon>MusterilerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdaEsyalariDataSet.xsc">
+      <DependentUpon>OdaEsyalariDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdaEsyalariDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OdaEsyalariDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OdaEsyalariDataSet.xss">
+      <DependentUpon>OdaEsyalariDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdaIslemGecmisleriDataSet.xsc">
+      <DependentUpon>OdaIslemGecmisleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdaIslemGecmisleriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OdaIslemGecmisleriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OdaIslemGecmisleriDataSet.xss">
+      <DependentUpon>OdaIslemGecmisleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdaKayitlariDataSet.xsc">
+      <DependentUpon>OdaKayitlariDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdaKayitlariDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OdaKayitlariDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OdaKayitlariDataSet.xss">
+      <DependentUpon>OdaKayitlariDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdalarDataSet.xsc">
+      <DependentUpon>OdalarDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdalarDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OdalarDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OdalarDataSet.xss">
+      <DependentUpon>OdalarDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdaTurleriDataSet.xsc">
+      <DependentUpon>OdaTurleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OdaTurleriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OdaTurleriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OdaTurleriDataSet.xss">
+      <DependentUpon>OdaTurleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OtelDataSet.xsc">
+      <DependentUpon>OtelDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OtelDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OtelDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OtelDataSet.xss">
+      <DependentUpon>OtelDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="PersonelIslemGecmisleriDataSet.xsc">
+      <DependentUpon>PersonelIslemGecmisleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PersonelIslemGecmisleriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PersonelIslemGecmisleriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PersonelIslemGecmisleriDataSet.xss">
+      <DependentUpon>PersonelIslemGecmisleriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="UrunKategorileriDataSet.xsc">
+      <DependentUpon>UrunKategorileriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UrunKategorileriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UrunKategorileriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UrunKategorileriDataSet.xss">
+      <DependentUpon>UrunKategorileriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UrunlerDataSet.xsc">
+      <DependentUpon>UrunlerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UrunlerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UrunlerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UrunlerDataSet.xss">
+      <DependentUpon>UrunlerDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 ve x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="Resimler\OdaGorsel.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

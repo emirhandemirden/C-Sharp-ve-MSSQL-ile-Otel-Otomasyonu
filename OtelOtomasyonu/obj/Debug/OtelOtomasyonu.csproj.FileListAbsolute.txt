@@ -1,0 +1,419 @@
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form_Otel.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaEkle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe.licenses
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CopyComplete
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaGuncelle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaSil.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CariEkle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CariGuncelle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_Cariler.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CariSil.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_Odalar.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Gecmiler.Form_Gecmisler.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_Tanimlamalar.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_TanimlamaEkle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_TanimlamaGuncelle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_TanimlamaSil.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Giriş_Ekranı.Form_GirisYap.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Ayarlar.Form_Ayarlar.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_Muhasebe.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_MuhasebeEkle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_MuhasebeGuncelle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_MuhasebeSil.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaKayıt.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaEkrani.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_Kafeterya.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunEkle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunGuncelle.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunSil.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_OdaSatis.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaKayitlari.resources
+C:\Users\PC\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaKayitSil.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.AssemblyReference.cache
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Ayarlar.Form_Ayarlar.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CariEkle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CariGuncelle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_Cariler.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CariSil.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Gecmiler.Form_Gecmisler.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Giriş_Ekranı.Form_GirisYap.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_Kafeterya.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_OdaSatis.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunEkle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunGuncelle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunSil.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_Muhasebe.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_MuhasebeEkle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_MuhasebeGuncelle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_MuhasebeSil.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaEkle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaEkrani.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaGuncelle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form_Otel.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaKayitlari.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaKayıt.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaKayitSil.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_Odalar.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaSil.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_TanimlamaEkle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_TanimlamaGuncelle.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_Tanimlamalar.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_TanimlamaSil.resources
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe.licenses
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CopyComplete
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+D:\Yeni klasör\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Ayarlar.Form_Ayarlar.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CariEkle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CariGuncelle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_Cariler.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CariSil.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Gecmiler.Form_Gecmisler.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Giriş_Ekranı.Form_GirisYap.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_Kafeterya.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_OdaSatis.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunEkle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunGuncelle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunSil.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_Muhasebe.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_MuhasebeEkle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_MuhasebeGuncelle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_MuhasebeSil.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaEkle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaEkrani.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaGuncelle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form_Otel.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaKayitlari.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaKayıt.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaKayitSil.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_Odalar.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaSil.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_TanimlamaEkle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_TanimlamaGuncelle.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_Tanimlamalar.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Tanimlamalar.Form_TanimlamaSil.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe.licenses
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CopyComplete
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\EnvDTE.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\stdole.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdalarRapor.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_TuruneGoreOdalarRapor.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_CarilerListesiRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Cariler.Form_TuruneGoreCarilerListesi.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Gecmisler.Form_CariIslemGecmisleriListesiRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Gecmisler.Form_MuhasebeIslemleriListesiRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Gecmisler.Form_OdaKayitGecmisleriListesiRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Gecmisler.Form_PersonelIslemGecmisleriListesiRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_KategoriyeGoreUrunlerListesi.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Kafeterya.Form_UrunlerListesiRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_GenelMuhasebeRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Muhasebe.Form_GunlukMuhasebeRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdaIDeGoreKayitListesiRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Odalar.Form_OdalaraGoreKayitListesiRaporu.resources
+C:\Users\emirh\source\repos\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.SuggestedBindingRedirects.cache
